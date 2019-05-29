@@ -1,0 +1,28 @@
+Tue Dec 04 22:13:09 2018
+Log inditasa 
+Tue Dec 04 22:13:09 2018
+SDL inicializalva
+Tue Dec 04 22:13:09 2018
+MenuBMP-k betoltese
+Tue Dec 04 22:13:09 2018
+MenuBMP-k kirajzolva
+Tue Dec 04 22:13:09 2018
+Play menu megnyitasa
+Tue Dec 04 22:13:09 2018
+MenuOptions megnyitasa
+Tue Dec 04 22:13:09 2018
+MenuBMP-k betoltese
+Tue Dec 04 22:13:10 2018
+PlayMenuBMP-k kirajzolva
+Tue Dec 04 22:13:10 2018
+PlayMenu megnyitva
+Tue Dec 04 22:13:10 2018
+GameBMP-k betoltese
+Tue Dec 04 22:13:17 2018
+MenuBMP-k betoltese
+Tue Dec 04 22:13:17 2018
+MenuBMP-k kirajzolva
+Tue Dec 04 22:13:17 2018
+program bezarasa
+Tue Dec 04 22:13:17 2018
+Log vege
